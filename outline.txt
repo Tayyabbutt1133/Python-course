@@ -1,0 +1,11 @@
+1. Modules, pip and comments
+2. Data types and variables 
+3. Arithmetic operations
+4. Strings
+5. Lists
+6. Tuple
+7. Sets
+8. Conditional Expression
+9. Functions & Recursion
+10. I/O File
+11. Object Oriented Programming

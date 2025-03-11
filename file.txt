@@ -1,0 +1,3 @@
+I am not learning python
+Building some exciting projects
+Testing python todo app

@@ -1,0 +1,3 @@
+1. Lists- it can be mutable 
+2. Strings- it can not be mutable 
+3. Tuple- it can not be mutable
