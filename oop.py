@@ -1,3 +1,7 @@
+# also one more thing which is that there are two types of attributes include : 
+# 1. Class Attributes
+# 2. Instance Attributes --> not belong to class
+
 class BankAccount:
     def __init__(self, account_holder, balance=0):
         self.account_holder = account_holder
@@ -28,6 +32,7 @@ print(bk.get_balance())
 # also we can set age to a private attribute using method, can't do directly
 bk.set_balance(500000000)
 print(bk.get_balance())
-        
-        
+
+
+
     

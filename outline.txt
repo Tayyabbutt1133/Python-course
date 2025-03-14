@@ -5,7 +5,10 @@
 5. Lists
 6. Tuple
 7. Sets
-8. Conditional Expression
-9. Functions & Recursion
-10. I/O File
-11. Object Oriented Programming
+8. Dictionary
+9. Loops
+10. Conditional Expression
+11. Functions & Recursion
+12. I/O File
+13. Object Oriented Programming
+14. Exceptional Handling
